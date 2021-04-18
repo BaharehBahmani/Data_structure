@@ -1,0 +1,9 @@
+List of Palindromes:
+1: 1991
+2: A toyota
+
+-----------------------------------------------------------------------
+
+List of Non-Palindromes:
+1: bahar
+2: taxi

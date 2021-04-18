@@ -1,0 +1,32 @@
+ETag: "4db9ff016db05794647bd10080a717d3"
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+accept-encoding: gzip, deflate
+accept-language: en-US,en;q=0.5
+authorization: LOW Sf6R1tAMmMEzpXOW:REDACTED_BY_IA_S3
+cache-control: no-cache
+connection: close
+content-length: 23435957
+content-type: multipart/form-data; charset=UTF-8
+host: s3.us.archive.org
+origin: https://archive.org
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:17.0) Gecko/20100101 Firefox/17.0
+x-amz-acl: bucket-owner-full-control
+x-amz-auto-make-bucket: 1
+x-archive-interactive-priority: 1
+x-archive-meta-mediatype: texts
+x-archive-meta01-collection: bell_literature
+x-archive-meta01-description: uri(A%20young%20orphan%20named%20Anne%20is%20adopted%20by%20Matthew%20and%20Marilla%20Cuthbert%2C%20who%20live%20in%20a%20place%20called%20Green%20Gables.%20In%20this%20coming%20of%20age%20story%2C%20Anne%20discovers%20her%20place%20in%20the%20world%20and%20her%20place%20in%20a%20new%20family.%20%3Cbr%3E)
+x-archive-meta01-language: eng
+x-archive-meta01-scanner: Internet Archive HTML5 Uploader 1.2
+x-archive-meta01-subject: Anne of Green Gables
+x-archive-meta01-title: Anne Of Green Gables
+x-archive-meta02-subject: OLE
+x-archive-meta03-subject: BeLL
+x-archive-meta04-subject: Literature
+x-archive-meta05-subject: LM Montgomery
+x-archive-meta06-subject: Lucy Maude Montgomery
+x-archive-size-hint: 23435957
+x-file-name: Anne of Green Gables.pdf
+x-file-size: 23435957
+x-requested-with: XMLHttpRequest
+x-upload-date: 2013-03-04T15:38:49.000Z
